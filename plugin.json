@@ -1,0 +1,13 @@
+{
+  "name": "Recent Games To Library",
+  "author": "ParabellumPony",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "library",
+      "utility"
+    ],
+    "description": "Installed games or Steam collections in the native Home carousel. Custom title. Automatic English and Russian UI."
+  }
+}

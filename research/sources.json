@@ -1,0 +1,88 @@
+{
+  "accessed": "2026-09-08",
+  "sources": [
+    {
+      "file": "template.zip",
+      "repository": "https://github.com/SteamDeckHomebrew/decky-plugin-template",
+      "commit": "90d0780e882a17f5714fc6de044c645f22608290",
+      "commit_date": "2026-04-10T18:08:55Z",
+      "url": "https://codeload.github.com/SteamDeckHomebrew/decky-plugin-template/zip/90d0780e882a17f5714fc6de044c645f22608290",
+      "sha256": "1c20ee2940b734b86b46f16f8c45e4fbd6aaa73a5227ca8461d38ba967844898",
+      "bytes": 63823
+    },
+    {
+      "file": "frontend-lib.zip",
+      "repository": "https://github.com/SteamDeckHomebrew/decky-frontend-lib",
+      "commit": "247eb635ea7acdc3e7807d5f99722daf854aaa70",
+      "commit_date": "2026-07-14T02:18:15Z",
+      "url": "https://codeload.github.com/SteamDeckHomebrew/decky-frontend-lib/zip/247eb635ea7acdc3e7807d5f99722daf854aaa70",
+      "sha256": "0e89f229cbd4bcb41362b03064378c0caefc9c90945889c438600a26c5a094c4",
+      "bytes": 252925
+    },
+    {
+      "file": "tabmaster.zip",
+      "repository": "https://github.com/Tormak9970/TabMaster",
+      "commit": "cd01770a80a37e0692e76ad8083719c15205f5d9",
+      "commit_date": "2026-08-05T15:31:45Z",
+      "url": "https://codeload.github.com/Tormak9970/TabMaster/zip/cd01770a80a37e0692e76ad8083719c15205f5d9",
+      "sha256": "1770983695ecc5fce468f6b7a0475362b0d7881e95e7c136f8afe6aa64156a27",
+      "bytes": 8362320
+    },
+    {
+      "file": "deck-shelves.zip",
+      "repository": "https://github.com/santojon/Deck-Shelves",
+      "commit": "1f4cedcd8530d89a822183bd17d439d33899b064",
+      "commit_date": "2026-09-07T13:08:27Z",
+      "url": "https://codeload.github.com/santojon/Deck-Shelves/zip/1f4cedcd8530d89a822183bd17d439d33899b064",
+      "sha256": "e52f5696a9cdac8cc0df6bc3fffb3cf104f84f3da9fedebe8e3314f6491c21c1",
+      "bytes": 11707572
+    },
+    {
+      "file": "steam-shared.js",
+      "url": "https://raw.githubusercontent.com/SteamTracking/SteamTracking/master/ClientExtracted/steamui/chunk%7E2dcc5aaf7.js",
+      "git_blob": "90866a55eeda0fd0fe64bc3395dadb134c16f2ec",
+      "sha256": "94e18eedb49d9eef156f3a5a0a4b82c576be373542bdbaa6e72b6eacb044f992",
+      "bytes": 23500536
+    },
+    {
+      "file": "steam-library.js",
+      "url": "https://raw.githubusercontent.com/SteamTracking/SteamTracking/master/ClientExtracted/steamui/library.js",
+      "git_blob": "6c38cac74a8b772895a5b0ca2a579f1c7f841737",
+      "sha256": "c183aedb122a8f948478ab5fe18d04a7b04a59b2ebece14f9116f71f1838d370",
+      "bytes": 1175952
+    },
+    {
+      "file": "steam-sp.js",
+      "url": "https://raw.githubusercontent.com/SteamTracking/SteamTracking/master/ClientExtracted/steamui/sp.js",
+      "git_blob": "084d30716986af783146c54926f18cf3f9c43d6f",
+      "sha256": "b77982fca733db2de53cde59adf739f44ad60ed8fc86f2002010d35d978d3c35",
+      "bytes": 3988
+    },
+    {
+      "file": "decky-plugin-loader.py",
+      "url": "https://raw.githubusercontent.com/SteamDeckHomebrew/decky-loader/main/backend/decky_loader/plugin/plugin.py",
+      "sha256": "a15487dabf4ac402c13b01c5673dc41ff7bef119103c2f7b21957eb1ab1e2214",
+      "bytes": 8261
+    },
+    {
+      "file": "decky-router-hook.tsx",
+      "url": "https://raw.githubusercontent.com/SteamDeckHomebrew/decky-loader/main/frontend/src/router-hook.tsx",
+      "sha256": "b537e5a6620f501b82d53ea0e8dcb9c43fd9f23120e2c03c8af4e224425ef2f8",
+      "bytes": 13398
+    },
+    {
+      "file": "decky-plugin-browser.py",
+      "url": "https://raw.githubusercontent.com/SteamDeckHomebrew/decky-loader/main/backend/decky_loader/browser.py",
+      "sha256": "a4cf7f85b9498186ad88b4936aa1d8e6c9d997f50d12b415d5c173cad68b7fd9",
+      "bytes": 17031
+    },
+    {
+      "file": "steam-shared.css",
+      "accessed": "2026-09-09",
+      "url": "https://api.github.com/repos/SteamTracking/SteamTracking/git/blobs/c0b4ae3f491c7294e16dfa592bb1be3644308974",
+      "git_blob": "c0b4ae3f491c7294e16dfa592bb1be3644308974",
+      "sha256": "b6660b3a8ae3f6b50007b7d94608adba07b7e38e08f0e586571237db52d76567",
+      "bytes": 5891797
+    }
+  ]
+}
